@@ -118,6 +118,14 @@ tiles:
   tags: ["business"]
   relationship: "external, nofollow"
 -
+  name: "Palla"
+  url: "https://www.palla.pe/"
+  img: "logos/palla.png"
+  bg_color: "#7f1715"
+  txt_color: "#ffffff"
+  tags: ["business"]
+  relationship: "external, nofollow"
+-
   name: "Strukture Architects"
   url: "https://www.strukturearchitects.com/"
   img: "strukture-architects.png"
