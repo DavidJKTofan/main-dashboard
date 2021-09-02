@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://davidjktofan.com/"
 languageCode = "en-us"
-title = "slate theme demo"
+title = "Dashboard &#8211; Personal Overview &#8211; David Tofan"
 theme = "slate"
 
 [ params ]
