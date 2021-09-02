@@ -121,7 +121,7 @@ tiles:
   name: "Fiesta Paradise"
   url: "https://www.fiestaparadise.rentals/"
   img: "logos/fiesta-paradise.svg"
-  bg_color: "#ffffff"
+  bg_color: "#C53A50"
   txt_color: "#ffffff"
   tags: ["business"]
   relationship: "external, nofollow"
