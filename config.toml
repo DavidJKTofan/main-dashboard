@@ -25,7 +25,7 @@ icon = "tools"
 [[ params.nav ]]
 name = "initiatives"
 tag = "initiatives"
-icon = "user-friends"
+icon = "globe-europe"
 
 [[ params.nav ]]
 name = "projects"
