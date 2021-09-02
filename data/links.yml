@@ -18,7 +18,7 @@ tiles:
   url: "https://performance.cf-testing.com/"
   img: "logos/cloudflare-demo-icon.svg"
   txt_color: "#ffffff"
-  bg_color: "#404041"
+  bg_color: "#ffffff"
   tags: ["projects"]
   relationship: "external"
 -
