@@ -94,6 +94,14 @@ tiles:
   tags: ["projects"]
   relationship: "external, nofollow"
 -
+  name: "Cloudbeds"
+  url: "https://www.cloudbeds.com/"
+  img: "logos/cloudbeds.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["business"]
+  relationship: "external, nofollow"
+-
   name: "Lunalabs"
   url: "https://www.lunalabs.eu/"
   img: "logos/lunalabs.svg"
@@ -122,14 +130,6 @@ tiles:
   url: "https://www.linkedin.com/company/previamed-s.l./"
   img: "logos/previamed.png"
   bg_color: "##222259"
-  txt_color: "#ffffff"
-  tags: ["business"]
-  relationship: "external, nofollow"
--
-  name: "Cloudbeds"
-  url: "https://www.cloudbeds.com/"
-  img: "logos/cloudbeds.svg"
-  bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["business"]
   relationship: "external, nofollow"
