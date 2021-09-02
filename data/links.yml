@@ -121,7 +121,7 @@ tiles:
   name: "Palla"
   url: "https://www.palla.pe/"
   img: "logos/palla.png"
-  bg_color: "#7f1715"
+  bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["business"]
   relationship: "external, nofollow"
