@@ -19,7 +19,7 @@ tiles:
   img: "logos/cloudflare-demo-icon.svg"
   txt_color: "#ffffff"
   bg_color: "#ffffff"
-  tags: ["projects"]
+  tags: ["favorite", "projects"]
   relationship: "external"
 -
   name: "GitHub"
@@ -27,7 +27,7 @@ tiles:
   img: "logos/github.png"
   txt_color: "#ffffff"
   bg_color: "#000000"
-  tags: ["resources"]
+  tags: ["favorite", "resources"]
   relationship: "external, nofollow"
 -
   name: "GoogleMaps Travel List"
