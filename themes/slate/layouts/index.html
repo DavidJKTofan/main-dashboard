@@ -3,6 +3,8 @@
     <title>{{ .Title }}</title>{{ if .Site.Params.Favicon }}
     <link rel="shortcut icon" href="{{ .Site.Params.Favicon }}">{{ end }}
     <link rel="stylesheet" href="css/slate.css">
+
+    {{ partial "header.html" . }}
 </head>
 
 <body{{ if .Site.Params.BackgroundStyle }} style='background: {{ .Site.Params.BackgroundStyle | safeCSS }};'{{ end }}
