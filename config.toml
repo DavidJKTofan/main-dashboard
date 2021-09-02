@@ -31,3 +31,8 @@ icon = "user-friends"
 name = "projects"
 tag = "projects"
 icon = "book"
+
+[[ params.nav ]]
+name = "personal"
+tag = "personal"
+icon = "address-card"

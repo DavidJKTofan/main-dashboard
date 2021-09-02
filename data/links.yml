@@ -3,7 +3,7 @@ tiles:
   name: "Personal Website"
   url: "https://www.davidtofan.com/"
   img: "logos/david-icon.svg"
-  tags: ["favorite", "resources"]
+  tags: ["favorite", "personal"]
   relationship: ""
 -
   name: "Cloudflare"
@@ -27,23 +27,31 @@ tiles:
   img: "logos/github.png"
   txt_color: "#ffffff"
   bg_color: "#000000"
-  tags: ["favorite", "resources"]
-  relationship: "external, nofollow"
+  tags: ["favorite", "resources", "personal"]
+  relationship: "external"
 -
   name: "Credly Badges"
   url: "https://www.credly.com/users/david-tofan/badges"
   img: "logos/credly.svg"
   txt_color: "#ffffff"
   bg_color: "#000000"
-  tags: ["initiatives"]
-  relationship: "external, nofollow"
+  tags: ["personal"]
+  relationship: "external"
+-
+  name: "Plum Profile"
+  url: "https://secure.plum.io/en/p/xrzUKevMi_nUe47_wl6BJw"
+  img: "logos/plum.svg"
+  txt_color: "#202879"
+  bg_color: "#000000"
+  tags: ["personal"]
+  relationship: "external"
 -
   name: "GoogleMaps Travel List"
   url: "https://davidtofan.com/travel/"
   img: "logos/rocket.svg"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
-  tags: ["resources"]
+  tags: ["resources", "personal"]
   relationship: "external"
 -
   name: "World of I.R."
