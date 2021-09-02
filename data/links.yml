@@ -30,6 +30,14 @@ tiles:
   tags: ["favorite", "resources"]
   relationship: "external, nofollow"
 -
+  name: "Credly Badges"
+  url: "https://www.credly.com/users/david-tofan/badges"
+  img: "logos/credly.svg"
+  txt_color: "#ffffff"
+  bg_color: "#000000"
+  tags: ["initiatives"]
+  relationship: "external, nofollow"
+-
   name: "GoogleMaps Travel List"
   url: "https://davidtofan.com/travel/"
   img: "logos/rocket.svg"
