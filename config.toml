@@ -1,6 +1,6 @@
 baseURL = "http://davidjktofan.com/"
 languageCode = "en-us"
-title = "Dashboard &#8211; Personal Overview &#8211; David Tofan"
+title = "Dashboard – Personal Overview – David Tofan"
 theme = "slate"
 
 [ params ]
