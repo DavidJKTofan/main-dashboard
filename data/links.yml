@@ -14,6 +14,14 @@ tiles:
   tags: ["business"]
   relationship: "external, nofollow"
 -
+  name: "Cloudflare Demo Playground"
+  url: "https://performance.cf-testing.com/"
+  img: "logos/cloudflare-demo-icon.svg"
+  txt_color: "#ffffff"
+  bg_color: "#404041"
+  tags: ["projects"]
+  relationship: "external"
+-
   name: "GitHub"
   url: "https://github.com/DavidJKTofan"
   img: "logos/github.png"
