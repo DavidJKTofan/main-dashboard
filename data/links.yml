@@ -128,7 +128,7 @@ tiles:
 -
   name: "Strukture Architects"
   url: "https://www.strukturearchitects.com/"
-  img: "strukture-architects.png"
+  img: "logos/strukture-architects.png"
   bg_color: "#135236"
   txt_color: "#ffffff"
   tags: ["business"]
