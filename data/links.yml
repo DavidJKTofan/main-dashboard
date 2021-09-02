@@ -14,7 +14,7 @@ tiles:
   tags: ["business"]
   relationship: "external, nofollow"
 -
-  name: "Cloudflare Demo Playground"
+  name: "Cloudflare Playground"
   url: "https://performance.cf-testing.com/"
   img: "logos/cloudflare-demo-icon.svg"
   txt_color: "#ffffff"
@@ -109,3 +109,28 @@ tiles:
   txt_color: "#ffffff"
   tags: ["business"]
   relationship: "external, nofollow"
+-
+  name: "PreviaMed"
+  url: "https://www.linkedin.com/company/previamed-s.l./"
+  img: "logos/previamed.png"
+  bg_color: "#0b1f41"
+  txt_color: "#ffffff"
+  tags: ["business"]
+  relationship: "external, nofollow"
+-
+  name: "Cloudbeds"
+  url: "https://www.cloudbeds.com/"
+  img: "logos/cloudbeds.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["business"]
+  relationship: "external, nofollow"
+-
+  name: "SITSI®"
+  url: "https://www.sitsi.com/"
+  img: "logos/sitsi.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["business"]
+  relationship: "external, nofollow"
+  
