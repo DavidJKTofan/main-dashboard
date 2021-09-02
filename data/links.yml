@@ -34,15 +34,15 @@ tiles:
   url: "https://www.credly.com/users/david-tofan/badges"
   img: "logos/credly.svg"
   txt_color: "#ffffff"
-  bg_color: "#000000"
+  bg_color: "#ffffff"
   tags: ["personal"]
   relationship: "external"
 -
   name: "Plum Profile"
   url: "https://secure.plum.io/en/p/xrzUKevMi_nUe47_wl6BJw"
   img: "logos/plum.svg"
-  txt_color: "#202879"
-  bg_color: "#000000"
+  txt_color: "#ffffff"
+  bg_color: "#202879"
   tags: ["personal"]
   relationship: "external"
 -
