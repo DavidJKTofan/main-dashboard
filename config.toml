@@ -1,35 +1,3 @@
-baseURL = "https://davidjktofan.com/"
-languageCode = "en-us"
-title = "Dashboard Overview – David Tofan"
-theme = "slate"
-
-publishDir = "docs"
-
-[ params ]
-Favicon = "favicon.ico"
-OpenLinksInNewWindow = true
-
-[[ params.nav ]]
-name = "favorites"
-tag = "favorite"
-icon = "star"
-
-[[ params.nav ]]
-name = "business"
-tag = "business"
-icon = "briefcase"
-
-[[ params.nav ]]
-name = "resources"
-tag = "resources"
-icon = "tools"
-
-[[ params.nav ]]
-name = "initiatives"
-tag = "initiatives"
-icon = "user-friends"
-
-[[ params.nav ]]
-name = "projects"
-tag = "projects"
-icon = "book"
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
