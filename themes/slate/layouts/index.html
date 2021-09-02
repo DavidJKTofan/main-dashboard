@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="css/slate.css">
 
     {{ partial "header.html" . }}
+    
 </head>
 
 <body{{ if .Site.Params.BackgroundStyle }} style='background: {{ .Site.Params.BackgroundStyle | safeCSS }};'{{ end }}
@@ -16,6 +17,9 @@
 </div>
 
 </body>
+
+{{ partial "footer.html" . }}
+
 <link href="https://fonts.googleapis.com/css?family=Exo" rel="stylesheet">
 <script src="js/slate.js"></script>
 </html>
