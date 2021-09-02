@@ -144,7 +144,7 @@ tiles:
 -
   name: "MTC Consulting"
   url: "https://www.mtcproperties.es/"
-  img: "logos/sitsi.svg"
+  img: "logos/mtc.png"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["business"]
