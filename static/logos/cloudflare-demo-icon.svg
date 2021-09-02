@@ -19,9 +19,6 @@
 </symbol>
 </g>
 <clipPath id="clip1">
-  <path d="M 0.5 0 L 2249.5 0 L 2249.5 2249 L 0.5 2249 Z M 0.5 0 "/>
-</clipPath>
-<clipPath id="clip2">
   <path d="M 121 513.429688 L 2129 513.429688 L 2129 1464.757812 L 121 1464.757812 Z M 121 513.429688 "/>
 </clipPath>
 <image id="image7" width="380" height="180" xlink:href="data:image/png;base64,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"/>
@@ -32,11 +29,6 @@
 </defs>
 <g id="surface1">
 <g clip-path="url(#clip1)" clip-rule="nonzero">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0.5 0 L 2249.5 0 L 2249.5 2256.496094 L 0.5 2256.496094 Z M 0.5 0 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0.5 0 L 2249.5 0 L 2249.5 2249 L 0.5 2249 Z M 0.5 0 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0.5 0 L 2249.5 0 L 2249.5 2249 L 0.5 2249 Z M 0.5 0 "/>
-</g>
-<g clip-path="url(#clip2)" clip-rule="nonzero">
 <use xlink:href="#image6" mask="url(#mask0)" transform="matrix(5.285151,0,0,5.285151,120.714244,513.429538)"/>
 </g>
 <g style="fill:rgb(96.078491%,50.979614%,12.159729%);fill-opacity:1;">
