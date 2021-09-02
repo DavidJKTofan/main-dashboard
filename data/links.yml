@@ -112,8 +112,16 @@ tiles:
 -
   name: "Hotel am Markt"
   url: "https://hotel-am-markt.eu/"
-  img: "logos/mtc.png"
+  img: "logos/hotel-am-markt.png"
   bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["business"]
+  relationship: "external, nofollow"
+-
+  name: "Strukture Architects"
+  url: "https://www.strukturearchitects.com/"
+  img: "strukture-architects.png"
+  bg_color: "#135236"
   txt_color: "#ffffff"
   tags: ["business"]
   relationship: "external, nofollow"
