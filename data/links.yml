@@ -200,7 +200,7 @@ tiles:
 -
   name: "YouTube Channel"
   url: "https://www.youtube.com/c/DavidTofan/"
-  img: "logos/youtube.png"
+  img: "logos/youtube-icon.svg"
   bg_color: "#212121"
   txt_color: "#ffffff"
   tags: ["personal"]
