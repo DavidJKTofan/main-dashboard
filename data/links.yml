@@ -189,3 +189,19 @@ tiles:
   txt_color: "#ffffff"
   tags: ["business"]
   relationship: "external, nofollow"
+-
+  name: "ORCID"
+  url: "https://orcid.org/0000-0001-8769-9560"
+  img: "logos/orcid.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["personal"]
+  relationship: "external, nofollow"
+-
+  name: "YouTube Channel"
+  url: "https://www.youtube.com/c/DavidTofan/"
+  img: "logos/youtube.svg"
+  bg_color: "#212121"
+  txt_color: "#ffffff"
+  tags: ["personal"]
+  relationship: "external, nofollow"
