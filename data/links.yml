@@ -209,7 +209,7 @@ tiles:
   name: "Twitter"
   url: "https://twitter.com/davidjktofan"
   img: "logos/twitter.svg"
-  bg_color: "#000000"
+  bg_color: "#1d9bf0"
   txt_color: "#ffffff"
   tags: ["personal"]
   relationship: "external, nofollow"
