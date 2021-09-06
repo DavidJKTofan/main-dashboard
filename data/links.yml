@@ -56,7 +56,7 @@ tiles:
 -
   name: "XING"
   url: "https://www.xing.com/profile/David_Tofan/cv"
-  img: "logos/xing.svg"
+  img: "logos/xing.png"
   txt_color: "#ffffff"
   bg_color: "#ffffff"
   tags: ["personal"]
