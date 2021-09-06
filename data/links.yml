@@ -46,6 +46,22 @@ tiles:
   tags: ["personal"]
   relationship: "external"
 -
+  name: "LinkedIn"
+  url: "https://www.linkedin.com/in/davidtofan/"
+  img: "logos/linkedin.svg"
+  txt_color: "#ffffff"
+  bg_color: "#ffffff"
+  tags: ["personal"]
+  relationship: "external, nofollow"
+-
+  name: "XING"
+  url: "https://www.xing.com/profile/David_Tofan/cv"
+  img: "logos/xing.svg"
+  txt_color: "#ffffff"
+  bg_color: "#ffffff"
+  tags: ["personal"]
+  relationship: "external, nofollow"
+-
   name: "GoogleMaps Travel List"
   url: "https://davidtofan.com/travel/"
   img: "logos/rocket.svg"
