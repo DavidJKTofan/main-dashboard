@@ -2,7 +2,7 @@
 
 Overview dashboard on personal projects, interesting initiatives, companies, and more...
 
-==> https://davidtofan.com/
+==> https://davidjktofan.com/
 
 # Many thanks to...
 
