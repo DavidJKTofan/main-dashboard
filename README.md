@@ -2,6 +2,8 @@
 
 Overview dashboard on personal projects, interesting initiatives, companies, and more...
 
+==> https://davidtofan.com/
+
 # Many thanks to...
 
 * Cloudflare
