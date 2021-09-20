@@ -70,6 +70,14 @@ tiles:
   tags: ["resources", "personal"]
   relationship: "external"
 -
+  name: "World of Opportunities"
+  url: "https://davidtofan.com/world/"
+  img: "logos/database.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["resources", "personal"]
+  relationship: "external"
+-
   name: "World of I.R."
   url: "https://world-ir.international/"
   img: "logos/world-ir.png"
