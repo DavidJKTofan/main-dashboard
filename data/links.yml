@@ -15,7 +15,7 @@ tiles:
   relationship: "external, nofollow"
 -
   name: "Cloudflare Playground"
-  url: "https://performance.cf-testing.com/"
+  url: "https://www.cf-testing.com/"
   img: "logos/cloudflare-demo-icon.svg"
   txt_color: "#ffffff"
   bg_color: "#ffffff"
