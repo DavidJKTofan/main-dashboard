@@ -67,7 +67,7 @@ tiles:
   img: "logos/rocket.svg"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
-  tags: ["resources", "personal"]
+  tags: ["resources", "personal", "projects"]
   relationship: "external"
 -
   name: "World of Opportunities"
@@ -75,7 +75,7 @@ tiles:
   img: "logos/database.svg"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
-  tags: ["resources", "personal"]
+  tags: ["resources", "projects"]
   relationship: "external"
 -
   name: "World of I.R."
