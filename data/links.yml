@@ -237,3 +237,11 @@ tiles:
   txt_color: "#ffffff"
   tags: ["personal"]
   relationship: "external, nofollow"
+-
+  name: "Salesforce Trailblazer"
+  url: "https://trailblazer.me/id/dtofan"
+  img: "logos/trailblazer-me.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["personal"]
+  relationship: "external, nofollow"
