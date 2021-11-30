@@ -80,7 +80,7 @@ tiles:
 -
   name: "Instagram"
   url: "https://www.instagram.com/davidjktofan/"
-  img: "logos/instagram.svg"
+  img: "logos/instagram.png"
   txt_color: "#ffffff"
   bg_color: "#ffffff"
   tags: ["personal"]
