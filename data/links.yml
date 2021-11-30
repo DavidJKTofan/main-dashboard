@@ -38,6 +38,22 @@ tiles:
   tags: ["favorite", "personal"]
   relationship: "external"
 -
+  name: "Pluralsight Profile"
+  url: "https://app.pluralsight.com/profile/david-tofan"
+  img: "logos/pluralsight.png"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["personal"]
+  relationship: "external, nofollow"
+-
+  name: "Salesforce Trailblazer"
+  url: "https://trailblazer.me/id/dtofan"
+  img: "logos/trailblazer.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["personal"]
+  relationship: "external, nofollow"
+-
   name: "Credly Badges"
   url: "https://www.credly.com/users/david-tofan/badges"
   img: "logos/credly.svg"
@@ -67,6 +83,22 @@ tiles:
   img: "logos/instagram.svg"
   txt_color: "#ffffff"
   bg_color: "#ffffff"
+  tags: ["personal"]
+  relationship: "external, nofollow"
+-
+  name: "Twitter"
+  url: "https://twitter.com/davidjktofan"
+  img: "logos/twitter.svg"
+  bg_color: "#1d9bf0"
+  txt_color: "#ffffff"
+  tags: ["personal"]
+  relationship: "external, nofollow"
+-
+  name: "YouTube Channel"
+  url: "https://www.youtube.com/c/DavidTofan/"
+  img: "logos/youtube-icon.svg"
+  bg_color: "#212121"
+  txt_color: "#ffffff"
   tags: ["personal"]
   relationship: "external, nofollow"
 -
@@ -230,33 +262,9 @@ tiles:
   tags: ["business"]
   relationship: "external, nofollow"
 -
-  name: "ORCID"
+  name: "ORCID Profile"
   url: "https://orcid.org/0000-0001-8769-9560"
   img: "logos/orcid.svg"
-  bg_color: "#ffffff"
-  txt_color: "#ffffff"
-  tags: ["personal"]
-  relationship: "external, nofollow"
--
-  name: "YouTube Channel"
-  url: "https://www.youtube.com/c/DavidTofan/"
-  img: "logos/youtube-icon.svg"
-  bg_color: "#212121"
-  txt_color: "#ffffff"
-  tags: ["personal"]
-  relationship: "external, nofollow"
--
-  name: "Twitter"
-  url: "https://twitter.com/davidjktofan"
-  img: "logos/twitter.svg"
-  bg_color: "#1d9bf0"
-  txt_color: "#ffffff"
-  tags: ["personal"]
-  relationship: "external, nofollow"
--
-  name: "Salesforce Trailblazer"
-  url: "https://trailblazer.me/id/dtofan"
-  img: "logos/trailblazer.svg"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["personal"]
