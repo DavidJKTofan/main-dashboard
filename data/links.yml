@@ -46,6 +46,14 @@ tiles:
   tags: ["personal"]
   relationship: "external, nofollow"
 -
+  name: "CodeWars Profile"
+  url: "https://www.codewars.com/users/DavidJKTofan"
+  img: "logos/codewars.svg"
+  bg_color: "#262729"
+  txt_color: "#ffffff"
+  tags: ["personal"]
+  relationship: "external, nofollow"
+-
   name: "Salesforce Trailblazer"
   url: "https://trailblazer.me/id/dtofan"
   img: "logos/trailblazer.svg"
