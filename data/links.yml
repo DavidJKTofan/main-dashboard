@@ -35,7 +35,15 @@ tiles:
   img: "logos/logo-htb.svg"
   txt_color: "#ffffff"
   bg_color: "#1a2332"
-  tags: ["favorite", "personal"]
+  tags: ["personal"]
+  relationship: "external"
+-
+  name: "TryHackMe"
+  url: "https://tryhackme.com/p/davidjktofan"
+  img: "logos/tryhackme.svg"
+  txt_color: "#ffffff"
+  bg_color: "#1c2538"
+  tags: ["personal"]
   relationship: "external"
 -
   name: "Pluralsight Profile"
@@ -83,7 +91,7 @@ tiles:
   img: "logos/linkedin.svg"
   txt_color: "#ffffff"
   bg_color: "#ffffff"
-  tags: ["personal"]
+  tags: ["favorite", "personal"]
   relationship: "external, nofollow"
 -
   name: "Instagram"
