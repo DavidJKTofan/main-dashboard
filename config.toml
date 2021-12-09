@@ -36,3 +36,8 @@ icon = "book"
 name = "personal"
 tag = "personal"
 icon = "address-card"
+
+[[ params.nav ]]
+name = "cybersec"
+tag = "cybersec"
+icon = "laptop-code"

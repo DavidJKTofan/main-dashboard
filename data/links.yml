@@ -19,7 +19,7 @@ tiles:
   img: "logos/cloudflare-demo-icon.svg"
   txt_color: "#ffffff"
   bg_color: "#ffffff"
-  tags: ["favorite", "projects"]
+  tags: ["favorite", "projects", "cybersec"]
   relationship: "external"
 -
   name: "GitHub"
@@ -27,7 +27,7 @@ tiles:
   img: "logos/github.png"
   txt_color: "#ffffff"
   bg_color: "#000000"
-  tags: ["favorite", "resources", "personal"]
+  tags: ["favorite", "resources", "personal", "cybersec"]
   relationship: "external"
 -
   name: "HackTheBox"
@@ -35,7 +35,7 @@ tiles:
   img: "logos/logo-htb.svg"
   txt_color: "#ffffff"
   bg_color: "#1a2332"
-  tags: ["personal"]
+  tags: ["personal", "cybersec"]
   relationship: "external"
 -
   name: "TryHackMe"
@@ -43,7 +43,7 @@ tiles:
   img: "logos/tryhackme.svg"
   txt_color: "#ffffff"
   bg_color: "#1c2538"
-  tags: ["personal"]
+  tags: ["personal", "cybersec"]
   relationship: "external"
 -
   name: "Pluralsight Profile"
@@ -51,7 +51,7 @@ tiles:
   img: "logos/pluralsight.png"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
-  tags: ["personal"]
+  tags: ["personal", "cybersec"]
   relationship: "external, nofollow"
 -
   name: "CodeWars Profile"
@@ -59,7 +59,7 @@ tiles:
   img: "logos/codewars.svg"
   bg_color: "#262729"
   txt_color: "#ffffff"
-  tags: ["personal"]
+  tags: ["personal", "cybersec"]
   relationship: "external, nofollow"
 -
   name: "Salesforce Trailblazer"
