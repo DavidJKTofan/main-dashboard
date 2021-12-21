@@ -118,6 +118,14 @@ tiles:
   tags: ["personal"]
   relationship: "external, nofollow"
 -
+  name: "Google Stadia"
+  url: "https://stadia.com/profile/1852544024671315265"
+  img: "logos/stadia.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["favorite", "personal"]
+  relationship: "external, nofollow"
+-
   name: "XING"
   url: "https://www.xing.com/profile/David_Tofan/cv"
   img: "logos/xing.png"
