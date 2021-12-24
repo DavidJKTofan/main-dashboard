@@ -30,6 +30,14 @@ tiles:
   tags: ["favorite", "resources", "personal", "cybersec"]
   relationship: "external"
 -
+  name: "Stack Overflow"
+  url: "https://stackoverflow.com/users/11830621/tototatutu"
+  img: "logos/stackoverflow.svg"
+  txt_color: "#ffffff"
+  bg_color: "#ffffff"
+  tags: ["personal", "cybersec"]
+  relationship: "external"
+-
   name: "HackTheBox"
   url: "https://app.hackthebox.com/users/807432"
   img: "logos/logo-htb.svg"
