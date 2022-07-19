@@ -214,6 +214,14 @@ tiles:
   tags: ["projects"]
   relationship: "external, nofollow"
 -
+  name: "Company Research"
+  url: "https://company-research.io/"
+  img: "logos/company-research-logo.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["projects", "resources"]
+  relationship: "external, nofollow"
+-
   name: "Cloudbeds"
   url: "https://www.cloudbeds.com/"
   img: "logos/cloudbeds.svg"
