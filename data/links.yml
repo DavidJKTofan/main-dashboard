@@ -134,6 +134,14 @@ tiles:
   tags: ["favorite", "personal"]
   relationship: "external, nofollow"
 -
+  name: "Steam"
+  url: "https://steamcommunity.com/id/tototatutu99/"
+  img: "logos/steam.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["personal"]
+  relationship: "external, nofollow"
+-
   name: "XING"
   url: "https://www.xing.com/profile/David_Tofan/cv"
   img: "logos/xing.png"
