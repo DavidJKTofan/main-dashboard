@@ -207,7 +207,7 @@ tiles:
   relationship: "external, nofollow"
 -
   name: "UNSA Spain"
-  url: "https://unsaspain.org/"
+  url: "https://www.linkedin.com/company/unsa-spain/"
   img: "logos/unsa-spain.png"
   bg_color: "#3d60d2"
   txt_color: "#ffffff"
@@ -215,7 +215,7 @@ tiles:
   relationship: "external, nofollow"
 -
   name: "Connected Car Study"
-  url: "https://connectedcarstudy.com/"
+  url: "https://connected-car.pages.dev/"
   img: "logos/car.svg"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
@@ -239,7 +239,7 @@ tiles:
   relationship: "external, nofollow"
 -
   name: "Lunalabs"
-  url: "https://www.lunalabs.eu/"
+  url: "https://www.linkedin.com/company/lunalabs-design/"
   img: "logos/lunalabs.svg"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
