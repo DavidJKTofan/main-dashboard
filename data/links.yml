@@ -162,7 +162,15 @@ tiles:
   url: "https://davidjktofan.medium.com/"
   img: "logos/medium.png"
   txt_color: "#ffffff"
-  bg_color: "#ffffff"
+  bg_color: "#186893"
+  tags: ["personal"]
+  relationship: "external, nofollow"
+-
+  name: "About.me"
+  url: "https://about.me/davidtofan"
+  img: "logos/aboutme.svg"
+  txt_color: "#ffffff"
+  bg_color: "#0872b4"
   tags: ["personal"]
   relationship: "external, nofollow"
 -
