@@ -70,6 +70,14 @@ tiles:
   tags: ["personal", "cybersec"]
   relationship: "external, nofollow"
 -
+  name: "StackShare"
+  url: "https://stackshare.io/davidjktofan"
+  img: "logos/stackshare.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["personal", "cybersec"]
+  relationship: "external, nofollow"
+-
   name: "Salesforce Trailblazer"
   url: "https://trailblazer.me/id/dtofan"
   img: "logos/trailblazer.svg"
@@ -145,6 +153,14 @@ tiles:
   name: "XING"
   url: "https://www.xing.com/profile/David_Tofan/cv"
   img: "logos/xing.png"
+  txt_color: "#ffffff"
+  bg_color: "#ffffff"
+  tags: ["personal"]
+  relationship: "external, nofollow"
+-
+  name: "Medium Blog"
+  url: "https://davidjktofan.medium.com/"
+  img: "logos/medium.png"
   txt_color: "#ffffff"
   bg_color: "#ffffff"
   tags: ["personal"]
