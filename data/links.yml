@@ -178,7 +178,7 @@ tiles:
   url: "https://www.oecd-forum.org/users/77850-david-jo-konstantin-tofan"
   img: "logos/oecd.svg"
   txt_color: "#ffffff"
-  bg_color: "#0872b4"
+  bg_color: "#ffffff"
   tags: ["personal"]
   relationship: "external, nofollow"
 -
