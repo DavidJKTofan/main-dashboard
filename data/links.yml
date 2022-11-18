@@ -262,6 +262,14 @@ tiles:
   tags: ["projects", "resources"]
   relationship: "external, nofollow"
 -
+  name: "Serverless API"
+  url: "https://serverless-woo-api.cf-testing.workers.dev/"
+  img: "logos/serverless-api.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["projects", "resources"]
+  relationship: "external, nofollow"
+-
   name: "Status Page"
   url: "https://status.cf-testing.com/"
   img: "logos/status-page.png"
