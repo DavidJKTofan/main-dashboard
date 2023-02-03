@@ -278,6 +278,14 @@ tiles:
   tags: ["projects", "resources"]
   relationship: "external, nofollow"
 -
+  name: "SASE Cloud Map"
+  url: "https://sasecloudmap.com/"
+  img: "logos/status-page.png"
+  bg_color: "#ffffff"
+  txt_color: "#ffffff"
+  tags: ["projects", "resources"]
+  relationship: "external, nofollow"
+-
   name: "Cloudbeds"
   url: "https://www.cloudbeds.com/"
   img: "logos/cloudbeds.svg"
