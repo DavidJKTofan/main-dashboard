@@ -280,11 +280,11 @@ tiles:
 -
   name: "SASE Cloud Map"
   url: "https://sasecloudmap.com/"
-  img: "logos/status-page.png"
+  img: "logos/sase-cloud-map.svg"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["projects", "resources"]
-  relationship: "external, nofollow"
+  relationship: "external"
 -
   name: "Cloudbeds"
   url: "https://www.cloudbeds.com/"
