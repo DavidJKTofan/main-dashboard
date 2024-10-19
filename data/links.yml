@@ -334,14 +334,6 @@ tiles:
   tags: ["business"]
   relationship: "external, nofollow"
 -
-  name: "Fiesta Paradise"
-  url: "https://www.fiestaparadise.rentals/"
-  img: "logos/fiesta-paradise.svg"
-  bg_color: "#81a8a8"
-  txt_color: "#ffffff"
-  tags: ["business"]
-  relationship: "external, nofollow"
--
   name: "PreviaMed"
   url: "https://www.linkedin.com/company/previamed-s.l./"
   img: "logos/previamed.png"
