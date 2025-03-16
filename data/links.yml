@@ -353,7 +353,7 @@ tiles:
   name: "Kalimera Beach Hotel"
   url: "https://www.kalimera.bz/"
   img: "logos/kalimera.svg"
-  bg_color: "#666666"
+  bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["business"]
   relationship: "external, nofollow"
