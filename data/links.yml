@@ -254,9 +254,9 @@ tiles:
   tags: ["projects"]
   relationship: "external, nofollow"
 -
-  name: "Company Research"
-  url: "https://company-research.io/"
-  img: "logos/company-research-logo.svg"
+  name: "Cloudflare Playground v2"
+  url: "https://automatic-demo.com/"
+  img: "logos/automatic-demo.png"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["projects", "resources"]
@@ -343,17 +343,25 @@ tiles:
   relationship: "external, nofollow"
 -
   name: "SITSI®"
-  url: "https://www.sitsi.com/"
+  url: "https://sitsi.pacanalyst.com/"
   img: "logos/sitsi.svg"
   bg_color: "#ffffff"
   txt_color: "#ffffff"
   tags: ["business"]
   relationship: "external, nofollow"
 -
-  name: "MTC Consulting"
-  url: "https://www.mtcproperties.es/"
-  img: "logos/mtc.png"
-  bg_color: "#ffffff"
+  name: "Kalimera Beach Hotel"
+  url: "https://www.kalimera.bz/"
+  img: "logos/kalimera.svg"
+  bg_color: "#666666"
+  txt_color: "#ffffff"
+  tags: ["business"]
+  relationship: "external, nofollow"
+-
+  name: "Casa Cuatro Hotel"
+  url: "https://www.cuatro.cc/"
+  img: "logos/casa-cuatro.svg"
+  bg_color: "#5B5034"
   txt_color: "#ffffff"
   tags: ["business"]
   relationship: "external, nofollow"
